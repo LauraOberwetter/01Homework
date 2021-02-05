@@ -19,7 +19,6 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-/* increased color contrast for better visability */
 header h1 .seo {
     color: #a1ec56;
 }
@@ -58,6 +57,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* main body */
 
 .float-left {
     float: left;
