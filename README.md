@@ -3,7 +3,8 @@ Coding Boot Camp Homework Week 1
 
 To increase accessibility and optimize SEO, please see some of the edits that I made to this refactored code:
 
-Edits made to HTML:    
+Edits made to HTML:  
+
   Changed tab title from "website" to "Horiseon"
   Changed <div> class "header" to <header>
   Changed <div> to <nav>
@@ -16,6 +17,7 @@ Edits made to HTML:
   Changed <div> to <footer> 
 
 Edits made to CSS:
+
   Increased color contrast for better visibility of brand name within <header>
   Resized the hero image for faster load time
   Lead generation, brand awareness, and cost management sidebar sections are all styled together in <aside>
