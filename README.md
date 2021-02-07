@@ -21,10 +21,10 @@ Edits made to HTML:
 <br>
 
 
-<strong> Edits made to CSS: 
+<strong> Edits made to CSS: </strong>
 <br>
 -Increased color contrast for better visibility of the company name
 <br>
-- Resized images for a faster page load time
+-Resized images for a faster page load time
 <br>
-- Consolidated classes with identical styling
+-Consolidated classes with identical styling
