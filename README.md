@@ -4,6 +4,7 @@ Coding Boot Camp Homework Week 1
 To increase accessibility and optimize SEO, I made the following edits in the refactored code:
 
 <strong>Edits made to HTML:</strong>
+<br>
 -Changed tab title from "website" to "Horiseon"
 <br>
 -Reassigned tag names for more organized HTML semantics
@@ -21,6 +22,7 @@ To increase accessibility and optimize SEO, I made the following edits in the re
 <br>
 
 <strong> Edits made to CSS: </strong>
+<br>
 -Increased color contrast for better visibility of the company name
 <br>
 -Resized images for a faster page load time
