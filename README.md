@@ -28,3 +28,6 @@ To increase accessibility and optimize SEO, I made the following edits in the re
 -Resized images for a faster page load time
 <br>
 -Consolidated classes with identical styling
+<br>
+
+Link: https://lauraoberwetter.github.io/Homework01/
